@@ -1,0 +1,200 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<script type="text/javascript" src="/al_loader.php?act=nav&v=3803"></script>
+
+<link rel="shortcut icon" href="/images/faviconvknew.ico" />
+
+<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+<meta name="description" content=" " />
+
+<title>TC | 8 фотографий</title>
+
+<noscript><meta http-equiv="refresh" content="0; URL=/badbrowser.php"></noscript>
+
+<link rel="stylesheet" type="text/css" href="/css/al/common.css?162" />
+<!--[if lte IE 6]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(/css/al/ie6.css?19); /* ]]> */</style><![endif]-->
+<!--[if IE 7]><style type="text/css" media="screen">/* <![CDATA[ */ @import url(/css/al/ie7.css?13); /* ]]> */</style><![endif]-->
+
+<script type="text/javascript">
+var vk = {
+  al: parseInt('3') || 4,
+  id: 3461600,
+  intnat: '1' ? true : false,
+  host: 'vk.com',
+  lang: 0,
+  rtl: parseInt('') || 0,
+  version: 3803,
+  zero: false,
+  contlen: 6602,
+  navPrefix: '/'
+}
+
+window.locDomain = vk.host.match(/[a-zA-Z]+\.[a-zA-Z]+\.?$/)[0];
+var _ua = navigator.userAgent.toLowerCase();
+if (/opera/i.test(_ua) || !/msie 6/i.test(_ua) || document.domain != locDomain) document.domain = locDomain;
+var ___htest = (location.toString().match(/#(.*)/) || {})[1] || '';
+if (vk.al != 1 && ___htest.length && ___htest.substr(0, 1) == vk.navPrefix) {
+  if (vk.al != 3 || vk.navPrefix != '!') {
+    location.replace(location.protocol + '//' + location.host + '/' + ___htest.replace(/^(\/|!)/, ''));
+  }
+}
+
+var StaticFiles = {
+  'common.js' : {v: 434},
+  'common.css': {v: 162},
+  'ie6.css'   : {v: 19},
+  'ie7.css'   : {v: 13}
+  ,'lang0_0.js':{v:3815},'photos.js':{v:30},'photos.css':{v:28},'photoview.js':{v:81},'photoview.css':{v:47},'qsorter.js':{v:8},'notifier.js':{v:31},'notifier.css':{v:15}
+}
+</script>
+<link type="text/css" rel="stylesheet" href="/css/al/photos.css?28"></link><link type="text/css" rel="stylesheet" href="/css/al/photoview.css?47"></link><link type="text/css" rel="stylesheet" href="/css/al/notifier.css?15"></link><script type="text/javascript" src="/js/al/common.js?434"></script><script type="text/javascript" src="/js/lang0_0.js?3815"></script><script type="text/javascript" src="/js/al/photos.js?30"></script><script type="text/javascript" src="/js/al/photoview.js?81"></script><script type="text/javascript" src="/js/al/qsorter.js?8"></script><script type="text/javascript" src="/js/al/notifier.js?31"></script>
+
+</head>
+
+<body onresize="onBodyResize()" class="is_rtl">
+  <div id="system_msg" class="fixed"></div>
+  <div id="utils"></div>
+
+  <div id="layer_bg" class="fixed"></div><div id="layer_wrap" class="scroll_fix_wrap fixed"><div id="layer"></div></div>
+  <div id="box_layer_bg" class="fixed"></div><div id="box_layer_wrap" class="scroll_fix_wrap fixed"><div id="box_layer"><div id="box_loader"><div class="loader"></div><div class="back"></div></div></div></div>
+
+  <a id="side_back_link" href="" class="fixed" onmouseover="animate(this, {backgroundColor: '#E1E7ED'}, 200)" onmouseout="animate(this, {backgroundColor: '#FFF'}, 200)" onclick="if (!checkEvent(event)) { scrollToTop(0); return false; }"></a>
+  
+  <script type="text/javascript">domStarted();</script>
+
+  <div class="scroll_fix_wrap" id="page_wrap"><div id="top_info_wrap"></div>
+<div><div class="scroll_fix">
+  <div id="page_layout">
+    <div id="page_header" class="p_head1 p_head_l0">
+      <div class="back"></div>
+      <div class="left"></div>
+      <div class="right"></div>
+      <div class="content">
+        <div id="top_nav" class="head_nav">
+  <form method="POST" class="upload_frame" id="logout_form" action="http://login.vk.com/" target="logout_frame">
+    <input type="hidden" name="act" value="logout" />
+    <input type="hidden" name="al_frame" value="1" />
+    <input type="hidden" name="from_host" value="vk.com" />
+    <input type="hidden" name="hash" value="7d653eb62dfca2d277" />
+  </form>
+  <iframe class="upload_frame" id="logout_frame" name="logout_frame"></iframe>
+  <a id="top_home_link" class="top_home_link fl_l" href="/" onclick="return nav.go(this, event)" class="fl_l" style="display: none"></a>
+  <table cellspacing="0" cellpadding="0" id="top_links" style="">
+    <tr>
+      <td class="top_home_link_td">
+        <a class="top_home_link" href="/" onclick="return nav.go(this, event)" class="fl_l"></a>
+      </td>
+      <td class="top_back_link_td">
+        <a class="top_nav_link fl_l" href="" id="top_back_link" onclick="if (nav.go(this, event, {back: true}) === false) { hide(this); return false; }"></a>
+      </td>
+      <td><nobr>
+        <a class="top_nav_link" id="top_search"  href="/search" onclick="return nav.go(this, event, {search: true, noframe: true});" onmouseover="gSearch.preload();">поиск</a>
+      </nobr></td>
+      <td><nobr>
+        <a class="top_nav_link" id="top_invite_link" href="/invite" onclick="return nav.go(this, event, {noback: true});">пригласить</a>
+      </nobr></td>
+      <td><nobr>
+        <a class=" top_nav_link" id="logout_link" href="http://login.vk.com/?act=logout&hash=7d653eb62dfca2d277&from_host=vk.com" onclick="if (!checkEvent(event)) { ge('logout_form').submit(); return false; }">выйти</a>
+      </nobr></td>
+    </tr>
+  </table>
+<span style="display: none" id="top_new_msg"></span>
+</div>
+      </div>
+    </div>
+
+    <div id="side_bar" class="fl_l" style="">
+      <ol>
+  <li id="myprofile" class="clear_fix"><a href="/edit" onclick="return nav.go(this, event);" class="edit fl_r">ред.</a> <a href="/saicheg" onclick="return nav.go(this, event, {noback: true})" class="hasedit fl_l">Моя Страница</a> </li><li id="l_fr"><a href="/friends" onclick="return nav.go(this, event, {noback: true});" >Мои Друзья <span></span></a></li><li id="l_ph"><a href="/albums3461600" onclick="return nav.go(this, event, {noback: true});" >Мои Фотографии <span></span></a></li><li id="l_vid"><a href="/video" onclick="return nav.go(this, event, {noback: true});" >Мои Видеозаписи <span></span></a></li><li><a href="/audio" onclick="return nav.go(this, event, {noback: true});" >Мои Аудиозаписи <span></span></a></li><li id="l_msg"><a href="/im" onclick="return nav.go(this, event, {noback: true});" >Мои Сообщения <span></span></a></li><li id="l_nts"><a href="/notes" onclick="return nav.go(this, event, {noback: true});" >Мои Заметки <span></span></a></li><li id="l_gr"><a href="/groups" onclick="return nav.go(this, event, {noback: true});" >Мои Группы <span></span></a></li><li id="l_ev"><a href="/events" onclick="return nav.go(this, event, {noback: true});" >Мои Встречи <span></span></a></li><li id="l_nws"><a href="/feed" onclick="return nav.go(this, event, {noback: true});" >Мои Новости <span></span></a></li><li><a href="/fave" onclick="return nav.go(this, event, {noback: true});" >Мои Закладки <span></span></a></li><li id="l_wsh"><a href="/gifts.php?act=wishlist">Мои Желания <span></span></a></li><li id="l_set"><a href="/settings" onclick="return nav.go(this, event, {noback: true});" >Мои Настройки <span></span></a></li><div class="more_div"></div><li id="l_ap" style="display: none"><a onclick="return nav.go(this, event, {noback: true});" >Приложения <span></span></a></li><li><a href="/market.php?act=list">Объявления <span></span></a></li><li><a href="/top10.php">Конкурс <span></span></a></li><li id="l_ads" style="display: none"><a>Реклама <span></span></a></li>
+</ol>
+<div class="left_box" style="display: none" id="left_money_box">
+
+</div><div id="left_blocks"></div>
+    </div>
+
+    <div id="page_body" class="fl_r">
+      <div id="header_wrap2">
+        <div id="header_wrap1">
+          <div id="header" style="display: none">
+            <h1 id="title"></h1>
+          </div>
+        </div>
+      </div>
+      <div id="wrap_between"></div>
+      <div id="wrap3"><div id="wrap2">
+  <div id="wrap1">
+    <div id="content"><div class="t_bar clear_fix">
+  <ul class="t0"><li class="">
+  <a href="/albums3461600" onclick="return checkEvent(event);" onmousedown="if (nav.go(this, event) === false) (window.PhotosAdd || window.photos || window.friendsphotos).activeTab(this);">
+    <b class="tl1"><b></b></b>
+    <b class="tl2"></b>
+    <b class="tab_word"><nobr>Мои альбомы</nobr></b>
+  </a>
+</li><li class="active_link">
+  <a href="/album3461600_129792567" onclick="return checkEvent(event);" onmousedown="if (nav.go(this, event) === false) (window.PhotosAdd || window.photos || window.friendsphotos).activeTab(this);">
+    <b class="tl1"><b></b></b>
+    <b class="tl2"></b>
+    <b class="tab_word"><nobr>TC</nobr></b>
+  </a>
+</li><li class="t_r"><a href="/album3461600_129792567?act=add" onclick="return nav.go(this, event)" class="fl_r summary_right">Добавить фотографии</a></li></ul>
+</div><div class="photos_album_page">
+  <div class="summary_wrap">
+    <div class="summary">8 фотографий<span class="divide">|</span><span><a href="/album3461600_129792567?act=edit" onclick="return nav.go(this, event)">Редактировать альбом</a></span><span class="divide">|</span><span><a href="/album3461600_129792567?act=comments" onclick="return nav.go(this, event)">Комментарии к альбому</a></span><span class="divide">|</span><span><a href="/saicheg" onclick="return nav.go(this, event, {back: true})">К моей странице</a></span></div>
+  </div>
+  <div id="photos_container" class="clear_fix"></div>
+  <a id="photos_load_more" onclick="photos.load()" style="display: none"><span>Показать больше фотографий</span>
+    <div id="photos_more_progress" class="progress"></div>
+  </a>
+</div></div>
+  </div>
+</div></div>
+    </div>
+
+    <div id="footer_wrap" class="fl_r">
+      <p id="footer">
+  <div class="copy_lang">ВКонтакте &copy; 2006-2011 <a onclick="showBox('lang.php', {act: 'lang_dialog'}, {noreload: true})">Русский</a></div>
+  <div>
+    <small><a href="/id1">Павел Дуров</a></small>
+    
+  </div>
+</p>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div></div></div>
+  <div class="progress" id="global_prg"></div>
+
+  <script type="text/javascript">
+    domReady();
+    updateMoney(["3","0","<div>На Вашем счёте<br><br \/><b>3 голоса<\/b>.<\/div>\n<br>\n<a href=\"\/payments.php?act=addfunds\">Пополнить баланс &raquo;<\/a>"]);
+gSearch.init();
+if (window.qArr && qArr[5]) qArr[5] = [5, "по товарам", "", "goods", 0x00000100];cur.pvPreloaded = "<div class=\"photo_row\" id=\"photo_row3461600_233874382\"><a href=\"\/photo3461600_233874382\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('3461600_233874382', 'album3461600_129792567', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9457.vk.com\/u3461600\/129792567\/m_65f23525.jpg\" \/>\n<\/a><a class=\"bg\">&nbsp;<\/a><\/div><div class=\"photo_row\" id=\"photo_row3461600_233874383\"><a href=\"\/photo3461600_233874383\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('3461600_233874383', 'album3461600_129792567', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9457.vk.com\/u3461600\/129792567\/m_153ea3c7.jpg\" \/>\n<\/a><a class=\"bg\">&nbsp;<\/a><\/div><div class=\"photo_row\" id=\"photo_row3461600_233874384\"><a href=\"\/photo3461600_233874384\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('3461600_233874384', 'album3461600_129792567', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9457.vk.com\/u3461600\/129792567\/m_5b0b7df9.jpg\" \/>\n<\/a><a class=\"bg\">&nbsp;<\/a><\/div><div class=\"photo_row\" id=\"photo_row3461600_263583128\"><a href=\"\/photo3461600_263583128\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('3461600_263583128', 'album3461600_129792567', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9802.vk.com\/u3461600\/129792567\/m_0b949290.jpg\" \/>\n<\/a><a class=\"bg\">&nbsp;<\/a><\/div><div class=\"photo_row\" id=\"photo_row3461600_263583129\"><a href=\"\/photo3461600_263583129\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('3461600_263583129', 'album3461600_129792567', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9802.vk.com\/u3461600\/129792567\/m_763c58f3.jpg\" \/>\n<\/a><a class=\"bg\">&nbsp;<\/a><\/div><div class=\"photo_row\" id=\"photo_row3461600_263583130\"><a href=\"\/photo3461600_263583130\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('3461600_263583130', 'album3461600_129792567', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9802.vk.com\/u3461600\/129792567\/m_5fbd6442.jpg\" \/>\n<\/a><a class=\"bg\">&nbsp;<\/a><\/div><div class=\"photo_row\" id=\"photo_row3461600_263583131\"><a href=\"\/photo3461600_263583131\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('3461600_263583131', 'album3461600_129792567', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9802.vk.com\/u3461600\/129792567\/m_fdeee590.jpg\" \/>\n<\/a><a class=\"bg\">&nbsp;<\/a><\/div><div class=\"photo_row\" id=\"photo_row3461600_263583132\"><a href=\"\/photo3461600_263583132\" onclick=\"if (cur.cancelClick) return (cur.cancelClick = false); return showPhoto('3461600_263583132', 'album3461600_129792567', {img: this, root: 1}, event)\">\n  <img src=\"http:\/\/cs9802.vk.com\/u3461600\/129792567\/m_f644fe0f.jpg\" \/>\n<\/a><a class=\"bg\">&nbsp;<\/a><\/div>";extend(cur, {
+  offset: 40,
+  count: 8,
+  moreFrom: 'album3461600_129792567',
+  moreOpts: undefined
+});
+
+cur.lang = extend(cur.lang || {}, {
+  photos_deleting_album: 'Удаление альбома',
+  photos_sure_del_album: 'Вы уверены, что хотите удалить альбом?'
+});
+
+if (vk.version) {
+  addEvent(window, 'load', photos.initScroll);
+} else {
+  photos.initScroll();
+}
+var preload = [80,""];
+
+ajax.preload(cur.moreFrom, extend({offset: cur.offset, part: 1}, cur.moreOpts || {}), preload);cur.cansort = 1; qsorter.init('photos_container', {onReorder: photos.reorderPhotos, xsize: 4, width: 149, height: 116 + (browser.msie8 ? 2 : 0)});
+ajax.preload('al_photos.php', {"act":"show","list":"album3461600_129792567","photo":"3461600_263583131"}, ["album3461600_129792567",8,0,[{"id":"3461600_233874382","x_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/x_7e510a66.jpg","y_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/y_4195f328.jpg","z_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/z_51b29abd.jpg","w_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/w_51709a8a.jpg","commcount":"0","commshown":0,"comments":"","date":"10 марта 2011","tags":[0],"tagged":[],"album":"<a href=\"album3461600_129792567\" onclick=\"return nav.go(this, event)\">TC<\/a>","author":"<a class=\"mem_link\" href=\"\/saicheg\" onclick=\"return nav.go(this, event)\">Валентин Завадский<\/a>","likes":1,"rotate":{"0":"http:\/\/cs9457.vk.com\/upload.php","mid":3461600,"smid":"3461600","said":"129792567","photo":"5d8a6f982b:w","fid":"3461600_233874382","hash":"56233d270df548859158eafb3e0d8b26","rhash":"82e5c09a9c5a16484d3ec311e741fcad"},"toprof":{"0":"http:\/\/cs9457.vk.com\/upload.php","mid":3461600,"aid":"129792567","smid":"3461600","said":"129792567","photo":"5d8a6f982b:w","fid":"3461600_233874382","hash":"d5855c5b20ad10af506638eb1e3600bc","rhash":"82e5c09a9c5a16484d3ec311e741fcad"},"actions":{"tag":1,"edit":1,"del":1,"rot":1,"comm":1,"prof":1},"hash":"145ae7ed7f24edfa0d"},{"id":"3461600_233874383","x_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/x_8d5acfcb.jpg","y_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/y_f25b6642.jpg","z_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/z_737e5611.jpg","w_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/w_6c2f165d.jpg","commcount":"0","commshown":0,"comments":"","date":"10 марта 2011","tags":[0],"tagged":[],"album":"<a href=\"album3461600_129792567\" onclick=\"return nav.go(this, event)\">TC<\/a>","author":"<a class=\"mem_link\" href=\"\/saicheg\" onclick=\"return nav.go(this, event)\">Валентин Завадский<\/a>","likes":0,"rotate":{"0":"http:\/\/cs9457.vk.com\/upload.php","mid":3461600,"smid":"3461600","said":"129792567","photo":"97e4287729:w","fid":"3461600_233874383","hash":"15f951c02afcff54253443c86450895f","rhash":"bfbb71cb78ee4cd8a1b50b7f4e6e471c"},"toprof":{"0":"http:\/\/cs9457.vk.com\/upload.php","mid":3461600,"aid":"129792567","smid":"3461600","said":"129792567","photo":"97e4287729:w","fid":"3461600_233874383","hash":"f8e346156efcae1f2eaf4d0a996003c4","rhash":"bfbb71cb78ee4cd8a1b50b7f4e6e471c"},"actions":{"tag":1,"edit":1,"del":1,"rot":1,"comm":1,"prof":1},"hash":"2e5568f949fafe3e4b"},{"id":"3461600_233874384","x_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/x_64b8482e.jpg","y_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/y_f3277210.jpg","z_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/z_1d4973d6.jpg","w_src":"http:\/\/cs9457.vk.com\/u3461600\/129792567\/w_abcf250c.jpg","commcount":"9","commshown":9,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101659449\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id15688325\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4561.vk.com\/u15688325\/e_6c98cc3a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id15688325\" onclick=\"return nav.go(this, event)\" class=\"name\">Ира Вардомская<\/a>\n    <div class=\"pv_commtext\">хочу себе такую майку&#33;&#33;<br>а вот эта алюминиевая тарелка - это что?<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">10 мар 2011 в 22:48<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '3461600_101659449', 'cd76416d1fa4ec6a73')\">это спам<\/a><span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101659449', 'cd76416d1fa4ec6a73')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101659449\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101659486\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10110.vk.com\/u3461600\/e_f0ccea4a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\" class=\"name\">Валентин Завадский<\/a>\n    <div class=\"pv_commtext\">Это удобно в ней так спагетти кушать, а из пластмассы - это столик, только вверх ногами перевернутый)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">10 мар 2011 в 22:50<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101659486', 'eb533dec01472f8197')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101659486\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101659606\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id15688325\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4561.vk.com\/u15688325\/e_6c98cc3a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id15688325\" onclick=\"return nav.go(this, event)\" class=\"name\">Ира Вардомская<\/a>\n    <div class=\"pv_commtext\">Теперь про майку расскажи, где взял.<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">10 мар 2011 в 22:59<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '3461600_101659606', 'd99df1c4a795231873')\">это спам<\/a><span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101659606', 'd99df1c4a795231873')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101659606\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101659618\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10110.vk.com\/u3461600\/e_f0ccea4a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\" class=\"name\">Валентин Завадский<\/a>\n    <div class=\"pv_commtext\">Где-где в штатах) 4.99 + TAX ) Я там себе очень много крутых маек напокупал) <\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">10 мар 2011 в 23:00<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101659618', 'a74c42fd0634454eb3')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101659618\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101659746\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id18078684\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs5879.vk.com\/u18078684\/e_ea9a11d7.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id18078684\" onclick=\"return nav.go(this, event)\" class=\"name\">Макс Гулик<\/a>\n    <div class=\"pv_commtext\">Ира, просто убила...xDD<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">10 мар 2011 в 23:11<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '3461600_101659746', 'cf5d9f2e167b2e36f0')\">это спам<\/a><span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101659746', 'cf5d9f2e167b2e36f0')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101659746\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101661685\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id4839540\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10713.vk.com\/u4839540\/e_257c748c.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id4839540\" onclick=\"return nav.go(this, event)\" class=\"name\">Дмитрий Гринкевич<\/a>\n    <div class=\"pv_commtext\">А можно передать привет в космос, пользуясь случаем?<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">11 мар 2011 в 9:52<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '3461600_101661685', '1310eb55a404639f59')\">это спам<\/a><span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101661685', '1310eb55a404639f59')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101661685\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101675391\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10110.vk.com\/u3461600\/e_f0ccea4a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\" class=\"name\">Валентин Завадский<\/a>\n    <div class=\"pv_commtext\">Вот соберем до концаб и можно будет при желании с родственниками на марсе поболтать)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">12 мар 2011 в 11:55<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101675391', '2f3ca4b00332101b3d')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101675391\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101683931\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id4839540\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10713.vk.com\/u4839540\/e_257c748c.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id4839540\" onclick=\"return nav.go(this, event)\" class=\"name\">Дмитрий Гринкевич<\/a>\n    <div class=\"pv_commtext\">Валик, для чего крутой гаджет?<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">12 мар 2011 в 21:07<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '3461600_101683931', '20284d87011473e53a')\">это спам<\/a><span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101683931', '20284d87011473e53a')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101683931\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_101702491\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10110.vk.com\/u3461600\/e_f0ccea4a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\" class=\"name\">Валентин Завадский<\/a>\n    <div class=\"pv_commtext\">Сам пока не знаю) Толи вечный двигатель толи беспроводная передача энергии)<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">14 мар 2011 в 0:02<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_101702491', 'f744f8ed6a77868bff')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_101702491\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"10 марта 2011","tags":[0],"tagged":[],"album":"<a href=\"album3461600_129792567\" onclick=\"return nav.go(this, event)\">TC<\/a>","author":"<a class=\"mem_link\" href=\"\/saicheg\" onclick=\"return nav.go(this, event)\">Валентин Завадский<\/a>","likes":1,"rotate":{"0":"http:\/\/cs9457.vk.com\/upload.php","mid":3461600,"smid":"3461600","said":"129792567","photo":"859c83365e:w","fid":"3461600_233874384","hash":"0b22f54e9489d45381c12424393eb7a9","rhash":"60cb149ecd8b4bf7bd0734e6a2c839b4"},"toprof":{"0":"http:\/\/cs9457.vk.com\/upload.php","mid":3461600,"aid":"129792567","smid":"3461600","said":"129792567","photo":"859c83365e:w","fid":"3461600_233874384","hash":"faed037e16a78a592f7734ebcc2a1e48","rhash":"60cb149ecd8b4bf7bd0734e6a2c839b4"},"actions":{"tag":1,"edit":1,"del":1,"rot":1,"comm":1,"prof":1},"hash":"9efc286e1333a6c164"},{"id":"3461600_263583128","x_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/x_d0fa9f55.jpg","y_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/y_75021537.jpg","z_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/z_6166cf7a.jpg","w_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/w_656c560f.jpg","commcount":"0","commshown":0,"comments":"","date":"сегодня","tags":[0],"tagged":[],"album":"<a href=\"album3461600_129792567\" onclick=\"return nav.go(this, event)\">TC<\/a>","author":"<a class=\"mem_link\" href=\"\/saicheg\" onclick=\"return nav.go(this, event)\">Валентин Завадский<\/a>","likes":0,"rotate":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"smid":"3461600","said":"129792567","photo":"8381bda17c:w","fid":"3461600_263583128","hash":"2550e8797f24315b99da60b0b7302a82","rhash":"785520030fea7ee537357de9d98eb1a4"},"toprof":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"aid":"129792567","smid":"3461600","said":"129792567","photo":"8381bda17c:w","fid":"3461600_263583128","hash":"193217fbd67e653503cf3b5398359e31","rhash":"785520030fea7ee537357de9d98eb1a4"},"actions":{"tag":1,"edit":1,"del":1,"rot":1,"comm":1,"prof":1},"desc":"Работа начинается","hash":"303a48653e2cd6cb88"},{"id":"3461600_263583129","x_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/x_d4fe0472.jpg","y_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/y_1478720d.jpg","z_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/z_8732dd6b.jpg","w_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/w_c1def649.jpg","commcount":"2","commshown":2,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_102889203\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id15688325\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4561.vk.com\/u15688325\/e_6c98cc3a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id15688325\" onclick=\"return nav.go(this, event)\" class=\"name\">Ира Вардомская<\/a>\n    <div class=\"pv_commtext\">ремарк)))<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">сегодня в 17:46<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '3461600_102889203', 'e522e9cb9aeedf4499')\">это спам<\/a><span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_102889203', 'e522e9cb9aeedf4499')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_102889203\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div><div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_102890818\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10110.vk.com\/u3461600\/e_f0ccea4a.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/saicheg\" onclick=\"return nav.go(this, event)\" class=\"name\">Валентин Завадский<\/a>\n    <div class=\"pv_commtext\">читали пока мотали катушку))<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">сегодня в 19:46<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_102890818', 'b424946c9ebbdd5eac')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_102890818\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"сегодня","tags":[0],"tagged":[],"album":"<a href=\"album3461600_129792567\" onclick=\"return nav.go(this, event)\">TC<\/a>","author":"<a class=\"mem_link\" href=\"\/saicheg\" onclick=\"return nav.go(this, event)\">Валентин Завадский<\/a>","likes":0,"rotate":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"smid":"3461600","said":"129792567","photo":"8b941a3d9b:w","fid":"3461600_263583129","hash":"7d48b5cafc424eeaf5fbd1a9d2e319e5","rhash":"b3b45c2db5d27823d5a3918b97a83a6d"},"toprof":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"aid":"129792567","smid":"3461600","said":"129792567","photo":"8b941a3d9b:w","fid":"3461600_263583129","hash":"4c5c56e3b4f60bc9e89d5ee9ac75e8fa","rhash":"b3b45c2db5d27823d5a3918b97a83a6d"},"actions":{"tag":1,"edit":1,"del":1,"rot":1,"comm":1,"prof":1},"desc":"Рабочий процесс","hash":"a775adb1a55f692788"},{"id":"3461600_263583130","x_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/x_e8a70758.jpg","y_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/y_cb46d358.jpg","z_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/z_a3570d30.jpg","w_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/w_5131eb6d.jpg","commcount":"0","commshown":0,"comments":"","date":"сегодня","tags":[0],"tagged":[],"album":"<a href=\"album3461600_129792567\" onclick=\"return nav.go(this, event)\">TC<\/a>","author":"<a class=\"mem_link\" href=\"\/saicheg\" onclick=\"return nav.go(this, event)\">Валентин Завадский<\/a>","likes":0,"rotate":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"smid":"3461600","said":"129792567","photo":"8c9388daa6:w","fid":"3461600_263583130","hash":"f236022efc6b93432d6db50a44555b49","rhash":"6a2e9b3fb82b865692f3c7c9aa843d28"},"toprof":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"aid":"129792567","smid":"3461600","said":"129792567","photo":"8c9388daa6:w","fid":"3461600_263583130","hash":"12e736680c41cdae8ca194daf3b54693","rhash":"6a2e9b3fb82b865692f3c7c9aa843d28"},"actions":{"tag":1,"edit":1,"del":1,"rot":1,"comm":1,"prof":1},"desc":"Военные разработки","hash":"8c872bb95f9da4aef4"},{"id":"3461600_263583131","x_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/x_f2554d27.jpg","y_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/y_5049a11f.jpg","z_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/z_ac0d8e3e.jpg","w_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/w_c7058a09.jpg","commcount":"1","commshown":1,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_102890605\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/dartshayder\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs10290.vk.com\/u7021795\/e_d9f0a6b2.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/dartshayder\" onclick=\"return nav.go(this, event)\" class=\"name\">Тима Жигман<\/a>\n    <div class=\"pv_commtext\">))кто-то нашёл журнал Юный Механик, а терь кичится)))<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">сегодня в 19:32<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '3461600_102890605', 'd4d12a86b81abf1c09')\">это спам<\/a><span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_102890605', 'd4d12a86b81abf1c09')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_102890605\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"сегодня","tags":{"40393492":[43.83,34.25,60.89,50.39],"0":1},"tagged":{"11603118":"40393492"},"tagshtml":"<span id=\"pv_tag40393492\" onmouseover=\"photoview.showTag(40393492)\" onmouseout=\"photoview.hideTag()\"><span><a href=\"\/id11603118\" onclick=\"return nav.go(this, event)\">Юрий Коледа<\/a><\/span><span class=\"delete\" onmouseover=\"photoview.tagOver(this)\" onmouseout=\"photoview.tagOut(this)\" onclick=\"photoview.deleteTag(40393492)\"><\/span><\/span>","album":"<a href=\"album3461600_129792567\" onclick=\"return nav.go(this, event)\">TC<\/a>","author":"<a class=\"mem_link\" href=\"\/saicheg\" onclick=\"return nav.go(this, event)\">Валентин Завадский<\/a>","likes":0,"rotate":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"smid":"3461600","said":"129792567","photo":"d2ea16329d:w1","fid":"3461600_263583131","hash":"f2352edfe742c22434c4919e6a2c1b32","rhash":"92b3de14606f258dc76884d116872362"},"toprof":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"aid":"129792567","smid":"3461600","said":"129792567","photo":"d2ea16329d:w1","fid":"3461600_263583131","hash":"418fcd17c80c47b49461a61289b83dde","rhash":"92b3de14606f258dc76884d116872362"},"actions":{"tag":1,"edit":1,"del":1,"rot":1,"comm":1,"prof":1},"desc":"Бифилярная катушка. Наше с Юрой творение)","hash":"9fe7a5ddb201ba5a6f"},{"id":"3461600_263583132","x_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/x_daef7beb.jpg","y_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/y_5b2ddabd.jpg","z_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/z_1aa3fc94.jpg","w_src":"http:\/\/cs9802.vk.com\/u3461600\/129792567\/w_c0363908.jpg","commcount":"1","commshown":1,"comments":"<div class=\"clear_fix pv_comment \" id=\"pv_comment3461600_102889294\"><div>\n  <div class=\"fl_l pv_thumb\">\n    <a href=\"\/id122889111\" onclick=\"return nav.go(this, event)\"><img src=\"http:\/\/cs4386.vk.com\/u122889111\/e_df1cafdd.jpg\" \/><\/a>\n  <\/div>\n  <div class=\"fl_l pv_comm\">\n    <a href=\"\/id122889111\" onclick=\"return nav.go(this, event)\" class=\"name\">Ольга Тулузова<\/a>\n    <div class=\"pv_commtext\">физики ядерщики блеать)))))<\/div>\n    <div class=\"pv_commdata\">\n      <span class=\"fl_l\">сегодня в 17:56<span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('spam', '3461600_102889294', 'c1e3574e53f1c2a4b9')\">это спам<\/a><span class=\"sdivide\">|<\/span><a onclick=\"photoview.commAction('delete', '3461600_102889294', 'c1e3574e53f1c2a4b9')\">Удалить<\/a><\/span>\n      <div class=\"fl_r progress\" id=\"pv_progress3461600_102889294\"><\/div>\n    <\/div>\n  <\/div>\n  \n<\/div><\/div>","date":"сегодня","tags":[0],"tagged":[],"album":"<a href=\"album3461600_129792567\" onclick=\"return nav.go(this, event)\">TC<\/a>","author":"<a class=\"mem_link\" href=\"\/saicheg\" onclick=\"return nav.go(this, event)\">Валентин Завадский<\/a>","likes":0,"rotate":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"smid":"3461600","said":"129792567","photo":"fbc56868f9:w","fid":"3461600_263583132","hash":"badd201b70b3f6dd53cdcc0b94d8db22","rhash":"fbcc14a77af03aa327af44569d673e6e"},"toprof":{"0":"http:\/\/cs9802.vk.com\/upload.php","mid":3461600,"aid":"129792567","smid":"3461600","said":"129792567","photo":"fbc56868f9:w","fid":"3461600_263583132","hash":"74d9cd15aaab650e1ac7ee67e4d574cc","rhash":"fbcc14a77af03aa327af44569d673e6e"},"actions":{"tag":1,"edit":1,"del":1,"rot":1,"comm":1,"prof":1},"desc":"Специальное устройство для намотки бифилярных катушек","hash":"3fb39f7ce21a60c749"}],{"commlimit":2048,"lang":{"reply_to_post":"Комментировать...","wall_more_replies":["","еще %s комментарий","еще %s комментария","еще %s комментариев"],"wall_all_replies":"все комментарии","wall_M_replies_of_N":["","%s комментарий из {link}{all}{\/link}","%s последних комментария из {link}{all}{\/link}","%s последних комментариев из {link}{all}{\/link}"],"photos_X_comms":["","%s комментарий","%s комментария","%s комментариев"],"photos_onthisphoto":"На этой фотографии","photos_yourcomment":"Ваш комментарий","photos_delete_tag":"Удалить отметку","photos_tagperson":"Отметить человека","photos_select_tag_area":"Выделите область, где изображен человек, и он будет подписан на фотографии.","photos_typename":"Введите имя","photos_tags_me":"Я","photos_confirm_tag":"Подтвердить","photos_load_to_profile":"Поместить на мою страницу","photos_in_closed_album":"Эта фотография находится в закрытом альбоме.","photos_edit":"Редактировать","photos_rotate":"Повернуть:","photos_album_name":"Альбом:","photos_author":"Отправитель:","photos_added":"Добавлена","photos_i_like":"Мне нравится","photos_download_hq":"Сохранить оригинал","photos_larger":"Увеличить фотографию","photos_smaller":"Уменьшить фотографию","photos_photo_num_of_N":"Фотография %s из %s","photos_view_one_photo":"Просмотр фотографии","photos_show_prev_comments":["","Показать предыдущий %s комментарий","Показать предыдущие %s комментария","Показать предыдущие %s комментариев"]},"big":1,"dark":1,"maxtags":35,"hash":"d2748a8da9e4d7979d"}]);
+showPhoto('3461600_263583131', 'album3461600_129792567', {root: 1, noHistory: 1})
+handlePageParams({"id":3461600,"leftblocks":"<div id=\"left_ads\"><\/div>","loc":"photo3461600_263583131"});showBackLink('/saicheg', 'Валентин Завадский');addEvent(window, 'load', function () {Notifier.init({"uid":3461600,"version":5,"flash_url":"\/swf\/queue_transport.swf","debug":false,"queue_id":"events_queue3461600","instance_id":"OTc5OTA4","timestamp":"1473307277","key":"1SkiSwaWqL1DVYqxgKnjNFIeP9LPc_6hpT2bjHrZlBcmyZicTcm0BJsF","server_url":"http:\/\/q12.queue.vk.com\/im600","frame_path":"http:\/\/q12.queue.vk.com\/q_frame.php?3","frame_url":"im600","refresh_url":"http:\/\/vk.com\/notifier.php"});});vk.al_video = 1;
+  </script>
+</body>
+
+</html>
